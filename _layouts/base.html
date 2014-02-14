@@ -36,8 +36,6 @@
             <a class="brand" href="/">
                 <img src="/images/{{ site.inc.logo }}" alt="Inc">
             </a>
-            <a href="/" class="home">Blog</a>
-            {% if site.inc.product_link %}<a href="{{ site.inc.product_link }}">Product</a>{% endif %}
             {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
         </nav>
         {% if site.inc.tagline or site.inc.product_url %}<nav class="tagline">
@@ -51,9 +49,9 @@
 
 <footer class="site-footer">
     <div class="container"> 
+        &copy; {{ site.time | date: "%Y" }}
         <nav>
-            <a href="/">Blog</a> &middot;
-            {% if site.inc.product_link %}<a href="{{ site.inc.product_link }}">Product</a> &middot; {% endif %}
+            {% if site.inc.product_link %}<a href="{{ site.inc.product_link }}">Bin of Parts, Inc</a> &middot; {% endif %}
             {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
         </nav>
         
@@ -62,13 +60,12 @@
             <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter black"></i></a>
             {% endif %}
             {% if site.inc.facebook %}
-            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Follow on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
+            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
             {% endif %}    
             <a href="/feed.xml" title="RSS Feed">
                 <i class="icon icon-rss black"></i>
             </a>
         </nav>
-        <p>&copy; {{ site.time | date: "%Y" }} Bin of Parts, Inc</p>
     </div>
 </footer>
 

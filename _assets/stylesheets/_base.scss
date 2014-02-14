@@ -1,7 +1,7 @@
 body {
     margin:0;
     border:0;
-    padding:80px 0 0;
+    padding:55px 0 0;
     font-family:$font;
     color:$text;
     -webkit-font-smoothing:antialiased;
@@ -37,7 +37,7 @@ a {
     transition:all 0.2s ease;
     
     &:hover {
-        color:darken($accent, 50%);
+        color:darken($accent, 5%);
         text-decoration:none;
     }
 }
