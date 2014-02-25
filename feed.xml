@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://binofparts.com</link>
+    <atom:link href="http://binofparts.com/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Tue, 25 Feb 2014 05:03:25 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Feb 2014 05:03:25 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Pre-Registration Opens Today</title>
+      <link>http://binofparts.com/pre-registration-opens-today</link>
+      <pubDate>Mon, 24 Feb 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://binofparts.com/pre-registration-opens-today</guid>
+      <description>&lt;p&gt;Today we launched a pre-registration for our new website. You may go now to pre-register &lt;a href=&quot;https://binofparts.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I welcome anyone interested to please pre-register, as this will give us a better understanding of how many people will be registered when we launch.&lt;/p&gt;
+
+&lt;p&gt;You may be wondering what exactly is Bin of Parts. Well thats simple, we are a non-profit organization currently building an online tool that will allow FRC teams to share parts with each other.&lt;/p&gt;
+
+&lt;p&gt;Soon we will be going into beta for our website and giving access to a select few teams.&lt;/p&gt;
+
+&lt;h2 id=&quot;about_the_beta&quot;&gt;About the beta&lt;/h2&gt;
+
+&lt;p&gt;Over the next few months I hope to give access to teams as it is ready. I am hoping to invite any teams from the Orlando Regional to be the first to test out our beta, as I will be attending this event.&lt;/p&gt;
+
+&lt;p&gt;When we launch the beta not everything will be closed off to just those that where invited. Apon launch anyone will be able to access our parts database without having an account. Also thanks to &lt;a href=&quot;http://www.thebluealliance.com&quot;&gt;The Blue Alliance&lt;/a&gt; and their API we will also have event and team information directly on our site.&lt;/p&gt;
+
+&lt;p&gt;So be sure to share this post, and I look forward to allowing everyone to use what I’ve been working on soon.&lt;/p&gt;</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>
